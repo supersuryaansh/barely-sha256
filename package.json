@@ -1,0 +1,23 @@
+{
+  "name": "barely-sha256",
+  "version": "0.0.1",
+  "description": "SHA 256 implementation from scratch for nodejs and nodejs like runtime environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supersuryaansh/barely-sha256.git"
+  },
+  "keywords": [
+    "sha256",
+    "crypto"
+  ],
+  "author": "supersuryaansh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/supersuryaansh/barely-sha256/issues"
+  },
+  "homepage": "https://github.com/supersuryaansh/barely-sha256#readme"
+}
